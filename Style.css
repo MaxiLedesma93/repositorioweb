@@ -1,0 +1,47 @@
+
+.cabecera{
+    background-color: blue;
+    height: 250px;
+    width: 70%;
+    display: flex;
+    margin: 0px auto;
+}
+.cuerpo{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.imagen{
+    background-color: grey;
+    height: 400px;
+    width: 400px;
+}
+.descripcion{
+    background-color: lightgrey;
+    height: 900px;
+    width: 100%;
+    font-size: 27px;
+
+}
+.divmenu{
+    background-color: yellow;
+    height:500px;
+    width: 400px;
+    
+}
+.pie{
+    background-color: orange;
+    height: 200px;
+    width: 100%;
+
+}
+body{
+    background-color: black;
+}
+h1{
+    font: verdana 45px;
+    color: #0C49A5 ;
+}
